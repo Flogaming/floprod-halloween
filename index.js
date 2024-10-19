@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["C'est terminé Halloween ?"];
+const statusMessages = ["Bonbon ? 🍬"];
 
 
 let currentIndex = 0;
